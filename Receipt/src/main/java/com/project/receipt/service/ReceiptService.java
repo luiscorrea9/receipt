@@ -1,9 +1,9 @@
-package com.project.romero.service;
+package com.project.receipt.service;
 
-import com.project.romero.dto.CreateReceiptDto;
-import com.project.romero.model.ItemModel;
-import com.project.romero.model.ReceiptModel;
-import com.project.romero.util.Utils;
+import com.project.receipt.dto.CreateReceiptDto;
+import com.project.receipt.model.ItemModel;
+import com.project.receipt.model.ReceiptModel;
+import com.project.receipt.util.Utils;
 import org.springframework.http.HttpStatus;
 import org.springframework.stereotype.Service;
 import org.springframework.web.server.ResponseStatusException;

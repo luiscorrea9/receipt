@@ -1,9 +1,8 @@
-package com.project.romero.controller;
+package com.project.receipt.controller;
 
-import com.project.romero.dto.CreateItemDto;
-import com.project.romero.dto.CreateReceiptDto;
-import com.project.romero.handler.ResponseHandler;
-import com.project.romero.service.ReceiptService;
+import com.project.receipt.dto.CreateReceiptDto;
+import com.project.receipt.handler.ResponseHandler;
+import com.project.receipt.service.ReceiptService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;

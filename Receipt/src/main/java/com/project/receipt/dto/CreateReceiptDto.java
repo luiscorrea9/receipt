@@ -1,4 +1,4 @@
-package com.project.romero.dto;
+package com.project.receipt.dto;
 
 import jakarta.validation.Valid;
 import jakarta.validation.constraints.NotEmpty;

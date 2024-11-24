@@ -1,9 +1,8 @@
-package com.project.romero.util;
+package com.project.receipt.util;
 
-import com.project.romero.dto.CreateItemDto;
-import com.project.romero.dto.CreateReceiptDto;
-import com.project.romero.model.ItemModel;
-import com.project.romero.model.ReceiptModel;
+import com.project.receipt.dto.CreateItemDto;
+import com.project.receipt.model.ItemModel;
+import com.project.receipt.model.ReceiptModel;
 
 import java.text.Normalizer;
 import java.time.LocalTime;

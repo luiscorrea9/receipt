@@ -1,4 +1,4 @@
-package com.project.romero.model;
+package com.project.receipt.model;
 
 
 import lombok.AllArgsConstructor;

@@ -1,4 +1,4 @@
-package com.project.romero.handler;
+package com.project.receipt.handler;
 
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
